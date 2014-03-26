@@ -1,8 +1,8 @@
 Pong Game v1.0
 ==============
 
-(>) Running
-------------
+Running
+--------
 
 (*) Only run Test.java (main class).
 	
@@ -27,8 +27,8 @@ Pong Game v1.0
 		> Enter a player/user name.
 
 
-(>) Class Structures of the Game
---------------------------------
+Class Structures of the Game
+-----------------------------
 
 (*) Test.class: Main Class -> Main Menu for starting server or client player. 
 
@@ -45,8 +45,8 @@ This object is sent to the client by the server.
 by the client.
 
 
-(>) Game Playing
-----------------
+Game Playing
+-------------
 
 	Controls: 
 		
