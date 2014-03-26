@@ -6,23 +6,23 @@ Running
 
 (*) Only run Test.java (main class).
 	
-	Create a server:
+	*Create a server:
 
-		> if player wants to start a server: Press [S].
+		> if player wants to create a new server: Press Key [S].
 	
-		> Enter a port number for start the server.
+		> Enter a port number for connection.
 	
 		> Enter a player/user name.
 
-		> Waiting for client player/user.
+		> Wait client other player/user to start game.
 
-	Connect a server:
+	*Connect a server:
 
-		> if player wants to connect a server: Press [C].
+		> if player wants to connect a server: Press Key [C].
 		
-		> Enter server's IP address.
+		> Enter server IP address.
 
-		> Enter server's Port number.
+		> Enter server Port number.
 
 		> Enter a player/user name.
 
@@ -30,12 +30,12 @@ Running
 Class Structures of the Game
 -----------------------------
 
-(*) Test.class: Main Class -> Main Menu for starting server or client player. 
+(*) Test.class: Main Class -> Main Menu for create a server or connect as client. 
 
-(*) PongServer.class: Server class -> Starting server, render frames, gets inputs and sets
+(*) PongServer.class: Server class -> Create a server, render frames, gets inputs and sets
 outputs, checking collisions and managing game network and objects.
 
-(*) PongClient.java:  Client class -> Connecting a server, render frames, gets inputs and 
+(*) PongClient.java:  Client class -> Connecting to server, render frames, gets inputs and 
 communicates with server.
 
 (*) PlayerServer.java: Contains the player's properties, ball's properties and game score. 
@@ -50,4 +50,4 @@ Game Playing
 
 	Controls: 
 		
-		> Move bar: Up / Down - Arrow Keys
+		> Move Bar: Key Up / Key Down - Arrow Keys
