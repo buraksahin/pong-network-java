@@ -44,6 +44,10 @@ This object is sent to the client by the server.
 (*) PlayerClient.java: Contains the player's properties. This object is sent to the server 
 by the client.
 
+Connection and Data Stream
+---------------------------
+Java network object serialization. 
+An object stream cycle provides the connection which behind the server and client.
 
 Game Playing
 -------------
