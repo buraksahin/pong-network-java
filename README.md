@@ -1,8 +1,9 @@
 Pong Game v1.0
 ==============
 
-![alt tag](https://github.com/buraksahin/Pong_Game/blob/master/background_pong.png?raw=true)
+![alt tag](https://github.com/buraksahin/Pong_Game/blob/master/bin/background_pong.png?raw=true)
 
+![alt tag](https://github.com/buraksahin/Pong_Game/blob/master/ss.png?raw=true)
 
 Running
 --------
